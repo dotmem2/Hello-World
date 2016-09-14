@@ -1,2 +1,2 @@
-This is a sample file.
+This is a sample file…And here’s my change for committing.
 This is an additional change.
