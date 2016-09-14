@@ -2,3 +2,5 @@ This is a sample file.
 This is an additional change.
 
 These are my changes for the version 2 branch.
+
+These are my last round of changes for version 2.
