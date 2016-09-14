@@ -1,4 +1,4 @@
 This is a sample file.
 This is an additional change.
 
-These are my changes for the version 2 branch.s
+These are my changes for the version 2 branch.
