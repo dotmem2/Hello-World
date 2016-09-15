@@ -1,2 +1,9 @@
-This is a sample file…And here’s my change for committing.
-This is an additional change.
+
+This is a sample file. Here’s my change for committing from the master.
+
+This is an additional change for the master.
+
+These are my changes for the version 2 branch.
+
+These are my last round of changes for version 2.
+
